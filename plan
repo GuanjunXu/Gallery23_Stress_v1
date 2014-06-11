@@ -1,0 +1,25 @@
+[tests]
+script.stress.GalleryTest.testSwitchToCamera = 1
+script.stress.GalleryTest.testSlideShowWithCine = 1
+script.stress.GalleryTest.testSlideShowWithDissolve = 1
+script.stress.GalleryTest.testSlideShowWithFlash = 1
+script.stress.GalleryTest.testLaunchGallery = 1
+script.stress.GalleryTest.testSelectFliter = 1
+
+script.stressFullView.GalleryTest.testCropPicture = 1
+script.stressFullView.GalleryTest.testCropPictureCancel = 1
+script.stressFullView.GalleryTest.testAddEvent = 1
+script.stressFullView.GalleryTest.testAddPlace = 1
+script.stressFullView.GalleryTest.testTagOnePicture = 1
+script.stressFullView.GalleryTest.testSetAsContact = 1
+script.stressFullView.GalleryTest.testSetAsWallpaper = 1
+script.stressFullView.GalleryTest.testViewPicture = 1
+script.stressFullView.GalleryTest.testUPIcon = 1
+script.stressFullView.GalleryTest.testSlidePicture = 1
+script.stressFullView.GalleryTest.testDeleteOneByOne = 1
+script.stressFullView.GalleryTest.testPlayPauseVideo = 1
+
+script.stressBurst.GalleryTest.testLaunchGalleryFromMS = 1
+script.stressBurst.GalleryTest.testLaunchGalleryFromMMS = 1
+script.stressBurst.GalleryTest.testLaunchGalleryFromEmail = 1
+script.stressBurst.GalleryTest.testLaunchGalleryFromContact = 1
