@@ -12,6 +12,8 @@ import os
 
 u = util.Util()
 
+PATH = os.getcwd()
+
 PACKAGE_NAME = 'com.intel.android.gallery3d'
 ACTIVITY_NAME = PACKAGE_NAME + '/.app.Gallery'
 
