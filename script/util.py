@@ -313,5 +313,7 @@ class Util():
 
            It means you will cancel deleting image/video file
         '''
-        d(description = 'Delete').click.wait()
+        d(description = 'More options').click.wait()
+        d(text = 'Delete').click.wait()
+        #d(description = 'Delete').click.wait()
         d(text = deleteoption).click.wait()
